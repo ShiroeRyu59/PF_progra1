@@ -113,7 +113,7 @@ public class SistemadeGarantias {
         String serviceTag = scanner.nextLine().trim().toUpperCase();
 
         if (todasLasComputadoras.stream().anyMatch(c -> c.getServiceTag().equals(serviceTag))) {
-            System.out.println("Error: Ya existe una computadora con ese Service Tag.");
+            System.out.println("Error: Ya existe una computadora con ese Service Tag, verifique.");
             return;
         }
 

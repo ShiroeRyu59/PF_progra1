@@ -1,1 +1,3 @@
 2025-05-31;Recepción;Computadora recibida.
+2025-05-31;Inspección;Diagnóstico: teclado y membrana da�ana, se requiere cambio pero no se tiene repuesto, se debe validar con usuario si acepta costo de importaci�n de repuesto
+2025-05-31;Entrega;Computadora entregada al cliente.
