@@ -1,0 +1,4 @@
+2025-05-31;Recepción;Computadora recibida.
+2025-05-31;Inspección;Diagnóstico: Da�o en flex, se debe cambiar
+2025-05-31;Reparación;Técnico: Leandro Sujuy, Proceso: se realiza cambio de flex, se valida y pantalla enciende
+2025-05-31;ControlCalidad;Reparación no aprobada. Reenvío a reparación.

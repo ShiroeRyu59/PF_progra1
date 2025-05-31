@@ -1,0 +1,2 @@
+SERV-1;no enciende pantalla;2025-05-31;Joaquin Santizo;shiroejess50@gmail.com;59846741;Reparación
+SERV-2;da�o en el teclado;2025-05-31;Andres monzon;admonzon11@gmail.com;12345678;Inspección
